@@ -1,0 +1,46 @@
+{
+  "students": [
+    {
+      "name": "Chandan Ojha",
+      "age": 23,
+      "cgpa": 3.8,
+      "isRegistered": true,
+      "languages": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Rayhan",
+          "age": 24
+        },
+        {
+          "name": "Tamim",
+          "age": 21
+        }
+      ]
+    },
+    {
+      "name": "Anu",
+      "age": 22,
+      "cgpa": 3.8,
+      "isRegistered": true,
+      "languages": [
+        "Bengali",
+        "English",
+        "Hindi"
+      ],
+      "friends": [
+        {
+          "name": "Naima",
+          "age": 24
+        },
+        {
+          "name": "Anika",
+          "age": 21
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "friends": [
+    {
+      "name": "Rayhan",
+      "age": 24
+    },
+    {
+      "name": "Tamim",
+      "age": 21
+    },
+    {
+      "name": "Bitto",
+      "age": 22
+    },
+    {
+      "name": "Mahafuj",
+      "age": 22
+    },
+    {
+      "name": "Shiful",
+      "age": 23
+    },
+    {
+      "name": "Akash",
+      "age": 21
+    },
+    {
+      "name": "Ashraful",
+      "age": 20
+    }
+  ],
+  
+  "students": [
+    {
+      "name": "Rayhan",
+      "age": 24
+    },
+    {
+      "name": "Tamim",
+      "age": 21
+    },
+    {
+      "name": "Bitto",
+      "age": 22
+    },
+    {
+      "name": "Mahafuj",
+      "age": 22
+    },
+    {
+      "name": "Shiful",
+      "age": 23
+    },
+    {
+      "name": "Akash",
+      "age": 21
+    },
+    {
+      "name": "Ashraful",
+      "age": 20
+    }
+  ]
+}
